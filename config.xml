@@ -1,9 +1,9 @@
  <widget id="A6009818497023"  version="0.0.1">
-    <name>tests</name>
+    <name>米烁仿抖音测试</name>
     <description>
         Example For APICloud.
     </description>
-    <author email="developer@apicloud.com" href="http://www.apicloud.com">
+    <author email="569214475@qq.com" href="http://www.apicloud.com">
         Developer
     </author>
     <content src="index.html" />
